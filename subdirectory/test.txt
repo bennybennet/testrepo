@@ -1,3 +1,7 @@
 Inhalt fuer master branch
 
 Mit neuem Inhalt.
+
+Noch mehr Inhalt.
+
+Inhalt für Amend commit. Ammended
